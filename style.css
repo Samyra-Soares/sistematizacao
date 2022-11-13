@@ -1,0 +1,76 @@
+
+
+.titulo-principal {
+	padding-left: 20px;
+}
+
+#banner{
+	width: 100%;
+	
+}
+
+
+.principal{
+	background: #CCCCCC;
+	padding: 30px;
+
+
+}
+
+.titulo-centralizado {
+	text-align: center;
+}
+
+p{
+	text-align:center;
+
+}
+
+#missao {
+	font-size: 20px;
+}
+
+
+
+.produtos h2{
+	font-size: 30px;
+	font-weight: bold;
+}
+
+
+.descricao{
+	font-size: 20px;
+	text-align: justify;
+    max-height: 180px;
+    padding-right: 15px;
+}
+
+em strong{
+	color: red;
+}
+
+
+label{
+	margin-bottom: 0.2em;
+	color: #0d0a17;
+	display: block;
+
+}
+
+button{
+	font-size: 1.0em;
+	background: #342a52;
+	border: 1.0px;
+	border-radius: 4px;
+	margin-bottom: 1em;
+	color: #FFFFFF;
+	padding: 0.3em 0.6em;
+	box-shadow: 2px 2px 2px rgba(0,0,0.2);
+	text-shadow: 1px 1px 1px rgba(0,0,0.5);
+	margin-top: 3%;
+	margin-left: 4%;
+	transform: translate(-50%, -50%);
+
+}
+
+
